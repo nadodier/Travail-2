@@ -1,11 +1,5 @@
 import maya.cmds as cmds
 
-polySphere3 = maya.cmds.polySphere(
-  r=0.2
-  )
-
-print polySphere3
-
 
 #Sélectionne la scene
 
